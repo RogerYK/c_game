@@ -1,0 +1,25 @@
+﻿生成启动时间为 2017/2/24 20:18:15。
+     1>项目“D:\用户目录\我的文档\Visual Studio 2015\Projects\我的游戏\俄罗斯方块\俄罗斯方块.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt Interface.c main.c
+         main.c
+     1>d:\用户目录\我的文档\visual studio 2015\projects\我的游戏\俄罗斯方块\main.c(65): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>d:\用户目录\我的文档\visual studio 2015\projects\我的游戏\俄罗斯方块\main.c(76): warning C4013: “gets”未定义；假设外部返回 int
+     1>d:\用户目录\我的文档\visual studio 2015\projects\我的游戏\俄罗斯方块\main.c(69): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+     1>d:\用户目录\我的文档\visual studio 2015\projects\我的游戏\俄罗斯方块\main.c(111): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+     1>d:\用户目录\我的文档\visual studio 2015\projects\我的游戏\俄罗斯方块\main.c(135): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+         Interface.c
+         正在生成代码...
+       Link:
+         D:\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\用户目录\我的文档\Visual Studio 2015\Projects\我的游戏\Debug\俄罗斯方块.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\用户目录\我的文档\Visual Studio 2015\Projects\我的游戏\Debug\俄罗斯方块.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\用户目录\我的文档\Visual Studio 2015\Projects\我的游戏\Debug\俄罗斯方块.lib" /MACHINE:X86 Debug\DataManipulation.obj
+         Debug\Interface.obj
+         Debug\main.obj
+         俄罗斯方块.vcxproj -> D:\用户目录\我的文档\Visual Studio 2015\Projects\我的游戏\Debug\俄罗斯方块.exe
+     1>已完成生成项目“D:\用户目录\我的文档\Visual Studio 2015\Projects\我的游戏\俄罗斯方块\俄罗斯方块.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:14.71
